@@ -257,7 +257,7 @@
     "options_scaninterval_unit_body": "минут",
     "options_threads_body": "Потоков обновления ленты",
     "options_threads_select_title": "Количество каналов для одновременной загрузки. Чем больше число тем быстрее обновления, но при этом большая нагрузка на сеть. Используйте меньшее число, если у вас низкая пропускная способность сети.",
-    "options_maxentries_body": "Максимальное количество записей для сохранения (по умолчанию)",
+    "options_maxentries_body": "Макс. количество записей для сохранения (по умолчанию)",
     "options_maxentries_select_title": "Maximum number of entries (articles) that are loaded from a single feed (aggregated feed can contain any number of entries)",
     "options_inactivelimit_body": "Inactive feed limit",
     "options_inactivelimit_select_title": "If the latest post in the feed was more than X days ago, feed is considered to be inactive and is automatically selected for removal in Feed Statistics view.",
