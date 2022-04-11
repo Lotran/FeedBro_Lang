@@ -318,7 +318,7 @@
     "options_notification_timeout_20s_body": "20 seconds",
     "options_notification_timeout_30s_body": "30 seconds",
     "options_notification_timeout_60s_body": "60 seconds",
-    "options_faviconprovider_body": "Favicon provider",
+    "options_faviconprovider_body": "Поставщик фавиконки",
     "options_tagshortcuts_body": "Tag shortcuts",
     "options_tagshortcuts_title": "By pressing the key combination you can quickly add the specified tag to the active feed article (with blue border)",
     "options_removetags_body": "Remove tags from feed entries",
